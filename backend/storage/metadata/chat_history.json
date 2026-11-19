@@ -1,0 +1,24 @@
+{
+  "test-session": [
+    {
+      "role": "user",
+      "content": "What is the BLEU score achieved on WMT 2014 English-to-German?",
+      "timestamp": "2026-11-19T13:41:58.420063Z"
+    },
+    {
+      "role": "assistant",
+      "content": "### Context Grounded Findings\n\nBased on the retrieved passages from **Attention_Is_All_You_Need.pdf (Page 1)**:\n\n> \"Attention Is All You Need: Scalable Transformers\nAbstract:\nThe dominant sequence transduction models are based on complex recurrent or convolutional neural networks. We propose\n1. Introduction:\nRecurrent models typically factor computation along the...\"\n\n---\n*Note: Please add your `GEMINI_API_KEY` to `backend/.env` to enable full conversational LLM generation via `gemini-2.5-flash`.*",
+      "sources": [
+        {
+          "document_id": "9593615e-59f3-49d3-9808-698bcb10061b",
+          "filename": "Attention_Is_All_You_Need.pdf",
+          "page_number": 1,
+          "chunk_index": 1,
+          "snippet": "Attention Is All You Need: Scalable Transformers\nAbstract:\nThe dominant sequence transduction models are based on complex recurrent or convolutional neural networks. We propose\n1. Introduction:\nRecurrent models typically factor computation along the...",
+          "score": 0.4392
+        }
+      ],
+      "timestamp": "2026-11-19T13:41:58.420063Z"
+    }
+  ]
+}

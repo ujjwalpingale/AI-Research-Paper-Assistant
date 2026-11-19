@@ -1,0 +1,27 @@
+{
+  "9593615e-59f3-49d3-9808-698bcb10061b": {
+    "id": "9593615e-59f3-49d3-9808-698bcb10061b",
+    "filename": "Attention_Is_All_You_Need.pdf",
+    "title": "Attention Is All You Need: Scalable Transformers",
+    "file_path": "D:\\GEN_AI_PROJECTS\\AI Research Paper Assistant\\backend\\storage\\uploads\\9593615e-59f3-49d3-9808-698bcb10061b_Attention_Is_All_You_Need.pdf",
+    "file_size_bytes": 1812,
+    "total_pages": 1,
+    "total_chunks": 1,
+    "upload_date": "2026-11-19T13:41:58.332127Z",
+    "status": "processed",
+    "summary": {
+      "title": "Attention Is All You Need: Scalable Transformers",
+      "objectives": "Extracted from research paper text and introduction.",
+      "problem_statement": "Addressing computational efficiency, model architecture, or benchmark accuracy.",
+      "methodology": "Proposed novel sequence architecture and theoretical formulations as detailed in document.",
+      "algorithms_and_technologies": "PyTorch, deep neural networks, specialized self-attention / state-space formulation.",
+      "dataset_information": "Standard academic benchmarks (e.g. WMT, LRA, benchmark corpora).",
+      "key_findings": "--- Page 1 ---\nAttention Is All You Need: Scalable Transformers\nAbstract:\nThe dominant sequence transduction models are based on complex recurrent or convolutional neural networks. We propose\n1. Introduction:\nRecurrent models typically factor computation along the symbol positions of the input and output sequences. This inherently\n2. Model Architecture:\nThe Transformer follows an encoder-decoder a...",
+      "results": "Empirical results reported in document.",
+      "limitations": "Refer to discussion section in paper.",
+      "future_scope": "Multi-modal extensions and scale-up studies.",
+      "raw_markdown": "# Attention Is All You Need: Scalable Transformers\n\n### 1. Research Objectives\nExtracted from research paper text and introduction.\n\n### 2. Problem Statement\nAddressing computational efficiency, model architecture, or benchmark accuracy.\n\n### 3. Methodology & Architecture\nProposed novel sequence architecture and theoretical formulations as detailed in document.\n\n### 4. Algorithms & Technologies\nPyTorch, deep neural networks, specialized self-attention / state-space formulation.\n\n### 5. Dataset Information\nStandard academic benchmarks (e.g. WMT, LRA, benchmark corpora).\n\n### 6. Key Findings\n--- Page 1 ---\nAttention Is All You Need: Scalable Transformers\nAbstract:\nThe dominant sequence transduction models are based on complex recurrent or convolutional neural networks. We propose\n1. Introduction:\nRecurrent models typically factor computation along the symbol positions of the input and output sequences. This inherently\n2. Model Architecture:\nThe Transformer follows an encoder-decoder a...\n\n### 7. Results & Benchmarks\nEmpirical results reported in document.\n\n### 8. Limitations\nRefer to discussion section in paper.\n\n### 9. Future Scope\nMulti-modal extensions and scale-up studies.\n"
+    },
+    "error_message": null
+  }
+}
